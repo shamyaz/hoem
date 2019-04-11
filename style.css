@@ -1,0 +1,100 @@
+body {
+ font-family: 'Abel', sans-serif;
+  background: black;
+}
+
+
+h1 {
+  font-family: 'Abel', sans-serif;
+  font-family: 'Abel', sans-serif;
+  font-size: 61px;
+  font-weight: 1000000;
+  padding-left: 846px;
+  padding-top: 90px;
+  color: white;
+  letter-spacing: 3px;
+
+}
+
+
+
+p {
+  font-family: 'Abel', sans-serif;
+  font-size: 25px;
+  text-align: justify;
+  font-weight: 10px;
+  padding-top: 120px;
+  padding-left: 850px;
+  padding-right: 550px;
+  width: 435px;
+  position: fixed;
+  color: black;
+}
+
+ul {
+  position: -webkit-sticky; 
+  position: fixed;
+  top: 0;
+  padding-top: 235px;
+  padding-left: 835px;
+  padding-right: 100px;
+ font-family: 'Abel', sans-serif;
+  font-size: 30px;
+  word-spacing: 43px;
+  font-color: black;
+ 
+}
+
+ul a:hover {
+    color: red;    
+}
+
+li {
+  display: inline;
+  
+}
+
+li u {
+  display: block;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  hover: #ffdc8c;
+}
+
+li a {
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  hover-color: red;
+}
+
+
+
+h2 {
+  font-family:'Roboto', sans-serif;
+  font-size: 25px;
+  padding-left: 850px;
+  padding-right: 120px;
+  position: fixed;
+  word-spacing: 47px;
+}
+
+#yikes { 
+  
+  position: fixed;
+  left: 150px;
+  top: 390px;
+  width: 22%
+  }
+
+#gora {
+  position: center;
+  left: 20px;
+  top: 10px;
+  z-index: -1;
+  width: 2000px;
+  height: auto;
+}
+
