@@ -19,21 +19,22 @@ h1 {
 
 
 p {
-  font-family: 'Abel', sans-serif;
-  font-size: 25px;
+  font-family: 'Abel', sans-serif; 
+  font-size: 40px;
   text-align: justify;
-  font-weight: 10px;
-  padding-top: 120px;
+  font-weight: 999px;
+  padding-top: 270px;
   padding-left: 850px;
   padding-right: 550px;
   width: 435px;
   position: fixed;
-  color: black;
+  color: purple;
+  text-shadow: 2px 2px black;
 }
 
 ul {
   position: -webkit-sticky; 
-  position: fixed;
+  position: absolute;
   top: 0;
   padding-top: 235px;
   padding-left: 835px;
@@ -95,6 +96,6 @@ h2 {
   top: 10px;
   z-index: -1;
   width: 2000px;
-  height: auto;
+  height: 850px;
 }
 
